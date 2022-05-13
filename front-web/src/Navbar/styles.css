@@ -1,18 +1,22 @@
-.main-navbar {
+.main-navbar{
+
+    background-color: #DA5C5C;
     height: 70px;
-    background-color: #DA5C5C; 
     padding-left: 45px;
     display: flex;
-    align-items: center;
+    align-items: center
+
 }
 
 .logo-text {
-    font-weight: 700;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
     font-size: 24px;
     line-height: 33px;
-
-    letter-spacing: -0.015em;
-
+    text-decoration: none;
+    letter-spacing: -0.015em;    
     color: #FFFFFF;
-    padding-left: 15px;
+
 }
